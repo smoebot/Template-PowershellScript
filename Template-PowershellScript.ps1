@@ -7,7 +7,7 @@
 .PARAMETER <Parameter_Name>
   <Brief description of parameter input required. Repeat this attribute if required>
 .PARAMETER Name2
-  Descripe the parameter
+  <Brief description of parameter input required. Repeat this attribute if required>
 .NOTES
   Author: [author name]
   v0.1 - (2020-03-05) Initial version
